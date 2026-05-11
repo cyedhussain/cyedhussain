@@ -20,8 +20,8 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0D1117&labelColor=161B22"/>
+  <a href="https://github.com/cyedhussain">
+    <img src="https://img.shields.io/github/followers/cyedhussain?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0D1117&labelColor=161B22"/>
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/YOUR_PROFILE">
@@ -30,7 +30,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Focus-Flutter%20Development-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=58A6FF&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=cyedhussain&style=for-the-badge&color=58A6FF&label=Profile+Views"/>
 </div>
 
 <br/>
@@ -112,7 +112,7 @@ class HussainAli extends FlutterDeveloper {
     <td width="50%" valign="top">
       <h3 align="center">🌤️ Weather App</h3>
       <div align="center">
-        <a href="https://github.com/YOUR_USERNAME/weather-app">
+        <a href="https://github.com/cyedhussain/weather-app">
           <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
         </a>
       </div>
@@ -136,7 +136,7 @@ class HussainAli extends FlutterDeveloper {
     <td width="50%" valign="top">
       <h3 align="center">🧠 PsycheCare AI Platform</h3>
       <div align="center">
-        <a href="https://github.com/YOUR_USERNAME/psychecare">
+        <a href="https://github.com/cyedhussain/psychecare">
           <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
         </a>
       </div>
@@ -160,27 +160,40 @@ class HussainAli extends FlutterDeveloper {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🛠️ CRUD Management System</h3>
+      <h3 align="center">✅ Task Todo App</h3>
       <div align="center">
-        <a href="https://github.com/YOUR_USERNAME/crud-system">
+        <a href="https://github.com/cyedhussain/task-todo-app">
           <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
         </a>
+        &nbsp;
+        <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge"/>
       </div>
       <br/>
       <p>
-        A full-featured role-based management system with admin & user dashboards, JWT authentication, and complete CRUD operations. Built with <strong>PHP</strong> and <strong>MySQL</strong>.
+        A modern, real-time Task Management App built with <strong>Flutter</strong> and powered by <strong>Firebase Firestore</strong>. Features live sync, reactive state management via <strong>Riverpod</strong>, and a clean, intuitive UI for maximum daily productivity.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens"/>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Riverpod-0077B5?style=flat"/>
       </p>
       <ul>
-        <li>🔑 Role-based access control (Admin/User)</li>
-        <li>📋 Full CRUD with validation</li>
-        <li>📊 Admin analytics dashboard</li>
-        <li>🔒 Secure authentication system</li>
+        <li>➕ Add, delete & complete tasks instantly</li>
+        <li>☁️ Real-time sync with Firebase Firestore</li>
+        <li>🔄 Reactive UI powered by Riverpod</li>
+        <li>🏗️ Clean architecture for scalability</li>
       </ul>
+      <details>
+        <summary><strong>🚀 Planned Enhancements</strong></summary>
+        <ul>
+          <li>🔐 User authentication system</li>
+          <li>📅 Task deadlines & reminders</li>
+          <li>📊 Progress tracking dashboard</li>
+          <li>🌙 Dark mode support</li>
+          <li>☁️ Multi-device sync per user</li>
+        </ul>
+      </details>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">⚡ More Coming Soon...</h3>
@@ -207,23 +220,23 @@ class HussainAli extends FlutterDeveloper {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=58A6FF" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cyedhussain&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=58A6FF" height="180"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyedhussain&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" height="180"/>
 </div>
 
 <br/>
 
 <div align="center">
   <!-- 🔥 Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8B949E&stroke=161B22" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyedhussain&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8B949E&stroke=161B22" height="180"/>
 </div>
 
 <br/>
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyedhussain&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true" width="95%"/>
 </div>
 
 <br/>
@@ -237,7 +250,7 @@ class HussainAli extends FlutterDeveloper {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=cyedhussain&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
 </div>
 
 <br/>
@@ -294,7 +307,7 @@ class HussainAli extends FlutterDeveloper {
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/cyedhussain/cyedhussain/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
 > ⚙️ _To enable the snake animation, set up the [GitHub Action](https://github.com/Platane/snk) in your profile repo._
@@ -310,7 +323,7 @@ class HussainAli extends FlutterDeveloper {
 ## 📫 Let's Connect & Collaborate
 
 <div align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/cyedhussain">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;
@@ -322,7 +335,7 @@ class HussainAli extends FlutterDeveloper {
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://dev.to/YOUR_USERNAME">
+  <a href="https://dev.to/cyedhussain">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
   </a>
 </div>
