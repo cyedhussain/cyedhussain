@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Hussain%20  Naqvi&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Software%20Engineering%20Student&descSize=18&descAlignY=58&descColor=c9d1d9"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Hussain%20Naqvi&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Software%20Engineering%20Student&descSize=18&descAlignY=58&descColor=c9d1d9"/>
 </div>
 
 <div align="center">
@@ -297,8 +297,6 @@ class HussainNaqvi extends FlutterDeveloper {
 </div>
 
 <br/>
-
----
 
 
 
