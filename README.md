@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Hussain%20Ali&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Software%20Engineering%20Student&descSize=18&descAlignY=58&descColor=c9d1d9"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Hussain%20  Naqvi&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Software%20Engineering%20Student&descSize=18&descAlignY=58&descColor=c9d1d9"/>
 </div>
 
 <div align="center">
@@ -44,9 +44,9 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
 
 ```dart
-class HussainAli extends FlutterDeveloper {
+class HussainNaqvi extends FlutterDeveloper {
   
-  final String name        = "Hussain Ali";
+  final String name        = "Hussain Naqvi";
   final String degree      = "Software Engineering (In Progress)";
   final String role        = "Flutter Developer";
   final String location    = "Pakistan 🇵🇰";
@@ -300,21 +300,7 @@ class HussainAli extends FlutterDeveloper {
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--              GITHUB SNAKE CONTRIBUTION GRAPH                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/cyedhussain/cyedhussain/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
-
-> ⚙️ _To enable the snake animation, set up the [GitHub Action](https://github.com/Platane/snk) in your profile repo._
-
-<br/>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   CONNECT                                     -->
