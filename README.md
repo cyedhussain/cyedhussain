@@ -64,7 +64,6 @@ class HussainNaqvi extends FlutterDeveloper {
     "Real-world Problem Solving",
   ];
 
-  final String funFact = "I debug with coffee ☕ and ship with confidence 🚀";
 
   @override
   String toString() => "Always learning. Always building. Always improving.";
