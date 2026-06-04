@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/github/followers/cyedhussain?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0D1117&labelColor=161B22"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/YOUR_PROFILE">
+  <a href="https://www.linkedin.com/in/syed-hussain-ali-naqvi">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
@@ -111,7 +111,7 @@ class HussainNaqvi extends FlutterDeveloper {
     <td width="50%" valign="top">
       <h3 align="center">🌤️ Weather App</h3>
       <div align="center">
-        <a href="https://github.com/cyedhussain/weather-app">
+        <a href="https://github.com/cyedhussain/weatherapp">
           <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
         </a>
       </div>
@@ -161,7 +161,7 @@ class HussainNaqvi extends FlutterDeveloper {
     <td width="50%" valign="top">
       <h3 align="center">✅ Task Todo App</h3>
       <div align="center">
-        <a href="https://github.com/cyedhussain/task-todo-app">
+        <a href="https://github.com/cyedhussain/TaskApp">
           <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
         </a>
         &nbsp;
@@ -228,7 +228,9 @@ class HussainNaqvi extends FlutterDeveloper {
 
 <div align="center">
   <!-- 🔥 Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyedhussain&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8B949E&stroke=161B22" height="180"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=cyedhussain&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&stroke=161B22&card_width=500" height="180" alt="GitHub Streak Stats"/>
+  </a>
 </div>
 
 <br/>
@@ -310,7 +312,7 @@ class HussainNaqvi extends FlutterDeveloper {
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/YOUR_PROFILE">
+  <a href="https://www.linkedin.com/in/syed-hussain-ali-naqvi">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
