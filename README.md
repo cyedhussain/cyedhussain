@@ -47,12 +47,11 @@
 class HussainNaqvi extends FlutterDeveloper {
   
   final String name        = "Hussain Naqvi";
-  final String degree      = "Software Engineering (In Progress)";
+  final String degree      = "Software Engineer";
   final String role        = "Flutter Developer";
   final String location    = "Pakistan 🇵🇰";
 
   final List<String> currentProjects = [
-    "🌤️  Weather App — Real-time forecasts with dynamic UI",
     "🧠  PsycheCare — AI-powered mental health platform",
   ];
 
