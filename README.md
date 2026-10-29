@@ -53,6 +53,8 @@ class HussainNaqvi extends FlutterDeveloper {
 
   final List<String> currentProjects = [
     "🧠  PsycheCare — AI-powered mental health platform",
+    "🐾  Pet Adoption Portal — connecting rescued pets with homes",
+    "📸  Social Media App — Flutter + Riverpod + Firebase",
   ];
 
   final List<String> strengths = [
@@ -108,27 +110,28 @@ class HussainNaqvi extends FlutterDeveloper {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🌤️ Weather App</h3>
+      <h3 align="center">🐾 Pet Adoption Portal</h3>
       <div align="center">
-        <a href="https://github.com/cyedhussain/weatherapp">
+        <a href="https://github.com/cyedhussain/Pet_Adoption_Portal">
           <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
         </a>
       </div>
       <br/>
       <p>
-        A polished real-time weather application with animated UI, location-based forecasts, search functionality, and a 7-day forecast. Built with <strong>Flutter</strong> and <strong>Provider</strong> state management.
+        A full-stack pet adoption portal that connects rescued animals with loving homes. Visitors browse pets across shelter branches, adopters apply and track their application step by step, and shelter staff manage everything from an admin dashboard. Built with <strong>PHP</strong>, <strong>MySQL</strong> and <strong>Bootstrap 5</strong>.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenWeather_API-E96E50?style=flat"/>
-        <img src="https://img.shields.io/badge/Provider-4CAF50?style=flat"/>
+        <img src="https://img.shields.io/badge/PHP_8-777BB4?style=flat&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PHPMailer-E44D26?style=flat"/>
       </p>
       <ul>
-        <li>🌡️ Live temperature & humidity data</li>
-        <li>📍 GPS-based auto location detection</li>
-        <li>🌈 Dynamic background based on weather</li>
-        <li>📊 7-day forecast & hourly breakdown</li>
+        <li>🔎 Browse & filter pets by category, branch, age, size and vaccination</li>
+        <li>📋 Adoption requests tracked from review → approved → adopted</li>
+        <li>💬 One-to-one chat with shelter staff & community group chats</li>
+        <li>🛠️ Admin dashboard to manage pets, branches & adoption requests</li>
+        <li>🔐 Hashed passwords, CSRF protection & prepared statements</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -158,40 +161,30 @@ class HussainNaqvi extends FlutterDeveloper {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">✅ Task Todo App</h3>
+      <h3 align="center">📸 Social Media App</h3>
       <div align="center">
-        <a href="https://github.com/cyedhussain/TaskApp">
+        <a href="https://github.com/cyedhussain/socialmediaapp">
           <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
         </a>
-        &nbsp;
-        <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge"/>
       </div>
       <br/>
       <p>
-        A modern, real-time Task Management App built with <strong>Flutter</strong> and powered by <strong>Firebase Firestore</strong>. Features live sync, reactive state management via <strong>Riverpod</strong>, and a clean, intuitive UI for maximum daily productivity.
+        A modern, high-performance social media app built with <strong>Flutter</strong>, <strong>Riverpod</strong> and <strong>Firebase</strong>. Features a real-time global feed, image sharing, likes, comments and push notifications, organised with a clean, feature-based architecture.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
         <img src="https://img.shields.io/badge/Riverpod-0077B5?style=flat"/>
+        <img src="https://img.shields.io/badge/FCM-FF6F00?style=flat&logo=firebase&logoColor=white"/>
       </p>
       <ul>
-        <li>➕ Add, delete & complete tasks instantly</li>
-        <li>☁️ Real-time sync with Firebase Firestore</li>
-        <li>🔄 Reactive UI powered by Riverpod</li>
-        <li>🏗️ Clean architecture for scalability</li>
+        <li>🔐 Email/password & Google Sign-In</li>
+        <li>📰 Real-time global feed with cached images</li>
+        <li>❤️ Create posts, like & comment instantly</li>
+        <li>🔔 Real-time notifications via Firebase Cloud Messaging</li>
+        <li>🌐 Cross-platform: mobile & web</li>
       </ul>
-      <details>
-        <summary><strong>🚀 Planned Enhancements</strong></summary>
-        <ul>
-          <li>🔐 User authentication system</li>
-          <li>📅 Task deadlines & reminders</li>
-          <li>📊 Progress tracking dashboard</li>
-          <li>🌙 Dark mode support</li>
-          <li>☁️ Multi-device sync per user</li>
-        </ul>
-      </details>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">⚡ More Coming Soon...</h3>
