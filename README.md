@@ -3,7 +3,14 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="assets/header.svg" width="100%" alt="Hussain Naqvi, full stack and mobile developer: Flutter, React, React Native, MongoDB"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Hussain%20Naqvi&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Software%20Engineer&descSize=18&descAlignY=58&descColor=c9d1d9"/>
+</div>
+
+<div align="center">
+
+  <!-- Typing SVG -->
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Production-Ready+Flutter+Apps+%F0%9F%9A%80;AI+%2B+Mobile+%3D+The+Future+%F0%9F%A4%96%F0%9F%93%B1;Clean+Architecture+%7C+Scalable+Code+%E2%9C%94;Turning+Ideas+Into+Reality+One+Widget+at+a+Time+%F0%9F%92%A1)](https://git.io/typing-svg)
+
 </div>
 
 <br/>
@@ -21,14 +28,14 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Mobile%20%26%20Full%20Stack-8B5CF6?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-Flutter%20Development-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=cyedhussain&style=for-the-badge&color=58A6FF&label=Profile+Views"/>
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   ABOUT ME                                    -->
@@ -37,31 +44,21 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
 
 ```dart
-class HussainNaqvi extends FullStackDeveloper {
+class HussainNaqvi extends FlutterDeveloper {
   
   final String name        = "Hussain Naqvi";
   final String degree      = "Software Engineer";
-  final String role        = "Flutter • React • React Native Developer";
+  final String role        = "Flutter Developer";
   final String location    = "Pakistan 🇵🇰";
 
   final List<String> currentProjects = [
     "🧠  PsycheCare — AI-powered mental health platform",
-    "🐾  Pet Adoption Portal — connecting rescued pets with homes",
-    "📸  Social Media App — Flutter + Riverpod + Firebase",
   ];
-
-  final Map<String, List<String>> stack = {
-    "mobile"   : ["Flutter", "Dart", "React Native"],
-    "frontend" : ["React", "JavaScript"],
-    "backend"  : ["PHP", "Firebase"],
-    "database" : ["MongoDB", "MySQL", "Firestore"],
-  };
 
   final List<String> strengths = [
     "Clean Architecture",
-    "State Management (Provider / BLoC / Riverpod / React Hooks)",
-    "Cross-platform Apps (Flutter & React Native)",
-    "API Integration & Database Design",
+    "State Management (Provider / BLoC)",
+    "API Integration",
     "UI/UX Precision",
     "Real-world Problem Solving",
   ];
@@ -74,7 +71,7 @@ class HussainNaqvi extends FullStackDeveloper {
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   TECH STACK                                  -->
@@ -85,28 +82,22 @@ class HussainNaqvi extends FullStackDeveloper {
 <div align="center">
 
 ### 📱 Mobile Development
-<img src="https://skillicons.dev/icons?i=flutter,dart,react&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-### 💻 Web Frontend
-<img src="https://skillicons.dev/icons?i=react,js,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" />
 
 ### 🌐 Backend & Database
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,php&theme=dark" />
+<img src="https://skillicons.dev/icons?i=php,mysql,firebase&theme=dark" />
 
 ### ⚙️ Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,androidstudio&theme=dark" />
 
 ### 🌟 Learning & Exploring
-<img src="https://skillicons.dev/icons?i=nodejs,ts,python,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,docker&theme=dark" />
 
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   FEATURED PROJECTS                           -->
@@ -117,28 +108,27 @@ class HussainNaqvi extends FullStackDeveloper {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🐾 Pet Adoption Portal</h3>
+      <h3 align="center">🌤️ Weather App</h3>
       <div align="center">
-        <a href="https://github.com/cyedhussain/Pet_Adoption_Portal">
+        <a href="https://github.com/cyedhussain/weatherapp">
           <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
         </a>
       </div>
       <br/>
       <p>
-        A full-stack pet adoption portal that connects rescued animals with loving homes. Visitors browse pets across shelter branches, adopters apply and track their application step by step, and shelter staff manage everything from an admin dashboard. Built with <strong>PHP</strong>, <strong>MySQL</strong> and <strong>Bootstrap 5</strong>.
+        A polished real-time weather application with animated UI, location-based forecasts, search functionality, and a 7-day forecast. Built with <strong>Flutter</strong> and <strong>Provider</strong> state management.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/PHP_8-777BB4?style=flat&logo=php&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PHPMailer-E44D26?style=flat"/>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenWeather_API-E96E50?style=flat"/>
+        <img src="https://img.shields.io/badge/Provider-4CAF50?style=flat"/>
       </p>
       <ul>
-        <li>🔎 Browse & filter pets by category, branch, age, size and vaccination</li>
-        <li>📋 Adoption requests tracked from review → approved → adopted</li>
-        <li>💬 One-to-one chat with shelter staff & community group chats</li>
-        <li>🛠️ Admin dashboard to manage pets, branches & adoption requests</li>
-        <li>🔐 Hashed passwords, CSRF protection & prepared statements</li>
+        <li>🌡️ Live temperature & humidity data</li>
+        <li>📍 GPS-based auto location detection</li>
+        <li>🌈 Dynamic background based on weather</li>
+        <li>📊 7-day forecast & hourly breakdown</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -168,30 +158,40 @@ class HussainNaqvi extends FullStackDeveloper {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📸 Social Media App</h3>
+      <h3 align="center">✅ Task Todo App</h3>
       <div align="center">
-        <a href="https://github.com/cyedhussain/socialmediaapp">
+        <a href="https://github.com/cyedhussain/TaskApp">
           <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
         </a>
+        &nbsp;
+        <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge"/>
       </div>
       <br/>
       <p>
-        A modern, high-performance social media app built with <strong>Flutter</strong>, <strong>Riverpod</strong> and <strong>Firebase</strong>. Features a real-time global feed, image sharing, likes, comments and push notifications, organised with a clean, feature-based architecture.
+        A modern, real-time Task Management App built with <strong>Flutter</strong> and powered by <strong>Firebase Firestore</strong>. Features live sync, reactive state management via <strong>Riverpod</strong>, and a clean, intuitive UI for maximum daily productivity.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
         <img src="https://img.shields.io/badge/Riverpod-0077B5?style=flat"/>
-        <img src="https://img.shields.io/badge/FCM-FF6F00?style=flat&logo=firebase&logoColor=white"/>
       </p>
       <ul>
-        <li>🔐 Email/password & Google Sign-In</li>
-        <li>📰 Real-time global feed with cached images</li>
-        <li>❤️ Create posts, like & comment instantly</li>
-        <li>🔔 Real-time notifications via Firebase Cloud Messaging</li>
-        <li>🌐 Cross-platform: mobile & web</li>
+        <li>➕ Add, delete & complete tasks instantly</li>
+        <li>☁️ Real-time sync with Firebase Firestore</li>
+        <li>🔄 Reactive UI powered by Riverpod</li>
+        <li>🏗️ Clean architecture for scalability</li>
       </ul>
+      <details>
+        <summary><strong>🚀 Planned Enhancements</strong></summary>
+        <ul>
+          <li>🔐 User authentication system</li>
+          <li>📅 Task deadlines & reminders</li>
+          <li>📊 Progress tracking dashboard</li>
+          <li>🌙 Dark mode support</li>
+          <li>☁️ Multi-device sync per user</li>
+        </ul>
+      </details>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">⚡ More Coming Soon...</h3>
@@ -209,7 +209,7 @@ class HussainNaqvi extends FullStackDeveloper {
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   GITHUB STATS                                -->
@@ -241,18 +241,7 @@ class HussainNaqvi extends FullStackDeveloper {
 
 <br/>
 
-<!-- 🐍 Contribution Snake (generated by .github/workflows/snake.yml) -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyedhussain/cyedhussain/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyedhussain/cyedhussain/output/github-contribution-grid-snake.svg"/>
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/cyedhussain/cyedhussain/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--               ACHIEVEMENTS / TROPHIES                         -->
@@ -266,7 +255,7 @@ class HussainNaqvi extends FullStackDeveloper {
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                WHAT I FOCUS ON                                -->
@@ -279,14 +268,14 @@ class HussainNaqvi extends FullStackDeveloper {
 | 🏗️ Architecture | 🎨 Design | ⚡ Performance | 🔗 Integration | 🧪 Quality |
 |:-:|:-:|:-:|:-:|:-:|
 | Clean, scalable code structure | Pixel-perfect UI/UX | Optimized & fast apps | Seamless API connections | Tested & reliable |
-| BLoC / Riverpod / React Hooks | Material 3 guidelines | Lazy loading & caching | REST, Firebase & MongoDB | Error handling |
+| BLoC / Provider patterns | Material 3 guidelines | Lazy loading & caching | RESTful & Firebase | Error handling |
 | SOLID principles | Responsive layouts | Smooth 60fps animations | Real-time data sync | Clean commits |
 
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--              CURRENTLY LEARNING                                -->
@@ -343,18 +332,18 @@ class HussainNaqvi extends FullStackDeveloper {
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   FOOTER                                      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="assets/footer.svg" width="100%" alt="Thanks for stopping by"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&animation=twinkling"/>
 </div>
 
 <div align="center">
   <sub>⭐ <strong>Star my repositories if you find them useful!</strong> ⭐</sub>
   <br/>
-  <sub>💜 Built with passion using Flutter, React & a lot of ☕</sub>
+  <sub>💙 Built with passion using Flutter & a lot of ☕</sub>
 </div>
