@@ -3,13 +3,15 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Hussain%20Naqvi&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Software%20Engineer&descSize=18&descAlignY=58&descColor=c9d1d9"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:3B82F6,100:06B6D4&height=280&section=header&text=Hussain%20Naqvi&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%26%20Mobile%20Developer%20%20%E2%80%A2%20%20Flutter%20%20%E2%80%A2%20%20React%20%20%E2%80%A2%20%20React%20Native&descSize=18&descAlignY=60&descColor=ffffff" width="100%"/>
 </div>
+
+<h3 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"/> Welcome to my corner of GitHub!</h3>
 
 <div align="center">
 
   <!-- Typing SVG -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Production-Ready+Flutter+Apps+%F0%9F%9A%80;AI+%2B+Mobile+%3D+The+Future+%F0%9F%A4%96%F0%9F%93%B1;Clean+Architecture+%7C+Scalable+Code+%E2%9C%94;Turning+Ideas+Into+Reality+One+Widget+at+a+Time+%F0%9F%92%A1)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&height=45&lines=Hey+there%21+I%27m+Hussain+Naqvi+%F0%9F%91%8B;Flutter+%E2%80%A2+React+%E2%80%A2+React+Native+Developer+%F0%9F%9A%80;Mobile+Apps+%2B+Web+Apps+%3D+Full+Stack+%F0%9F%92%BB%F0%9F%93%B1;MongoDB+%E2%80%A2+Firebase+%E2%80%A2+MySQL+%E2%80%A2+PHP+%F0%9F%97%84%EF%B8%8F;Clean+Architecture+%7C+Scalable+Code+%E2%9C%94;Turning+Ideas+Into+Reality+%E2%9A%A1)](https://git.io/typing-svg)
 
 </div>
 
@@ -28,14 +30,14 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Flutter%20Development-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-Mobile%20%26%20Full%20Stack-8B5CF6?style=for-the-badge&logo=react&logoColor=white"/>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=cyedhussain&style=for-the-badge&color=58A6FF&label=Profile+Views"/>
 </div>
 
 <br/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   ABOUT ME                                    -->
@@ -44,11 +46,11 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
 
 ```dart
-class HussainNaqvi extends FlutterDeveloper {
+class HussainNaqvi extends FullStackDeveloper {
   
   final String name        = "Hussain Naqvi";
   final String degree      = "Software Engineer";
-  final String role        = "Flutter Developer";
+  final String role        = "Flutter • React • React Native Developer";
   final String location    = "Pakistan 🇵🇰";
 
   final List<String> currentProjects = [
@@ -57,10 +59,18 @@ class HussainNaqvi extends FlutterDeveloper {
     "📸  Social Media App — Flutter + Riverpod + Firebase",
   ];
 
+  final Map<String, List<String>> stack = {
+    "mobile"   : ["Flutter", "Dart", "React Native"],
+    "frontend" : ["React", "JavaScript"],
+    "backend"  : ["PHP", "Firebase"],
+    "database" : ["MongoDB", "MySQL", "Firestore"],
+  };
+
   final List<String> strengths = [
     "Clean Architecture",
-    "State Management (Provider / BLoC)",
-    "API Integration",
+    "State Management (Provider / BLoC / Riverpod / React Hooks)",
+    "Cross-platform Apps (Flutter & React Native)",
+    "API Integration & Database Design",
     "UI/UX Precision",
     "Real-world Problem Solving",
   ];
@@ -73,7 +83,7 @@ class HussainNaqvi extends FlutterDeveloper {
 
 <br/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   TECH STACK                                  -->
@@ -84,22 +94,28 @@ class HussainNaqvi extends FlutterDeveloper {
 <div align="center">
 
 ### 📱 Mobile Development
-<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,react&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+### 💻 Web Frontend
+<img src="https://skillicons.dev/icons?i=react,js,html,css&theme=dark" />
 
 ### 🌐 Backend & Database
-<img src="https://skillicons.dev/icons?i=php,mysql,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,php&theme=dark" />
 
 ### ⚙️ Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,androidstudio&theme=dark" />
 
 ### 🌟 Learning & Exploring
-<img src="https://skillicons.dev/icons?i=python,js,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,ts,python,docker&theme=dark" />
 
 </div>
 
 <br/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   FEATURED PROJECTS                           -->
@@ -202,7 +218,7 @@ class HussainNaqvi extends FlutterDeveloper {
 
 <br/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   GITHUB STATS                                -->
@@ -234,7 +250,18 @@ class HussainNaqvi extends FlutterDeveloper {
 
 <br/>
 
----
+<!-- 🐍 Contribution Snake (generated by .github/workflows/snake.yml) -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyedhussain/cyedhussain/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyedhussain/cyedhussain/output/github-contribution-grid-snake.svg"/>
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/cyedhussain/cyedhussain/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--               ACHIEVEMENTS / TROPHIES                         -->
@@ -248,7 +275,7 @@ class HussainNaqvi extends FlutterDeveloper {
 
 <br/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                WHAT I FOCUS ON                                -->
@@ -261,14 +288,14 @@ class HussainNaqvi extends FlutterDeveloper {
 | 🏗️ Architecture | 🎨 Design | ⚡ Performance | 🔗 Integration | 🧪 Quality |
 |:-:|:-:|:-:|:-:|:-:|
 | Clean, scalable code structure | Pixel-perfect UI/UX | Optimized & fast apps | Seamless API connections | Tested & reliable |
-| BLoC / Provider patterns | Material 3 guidelines | Lazy loading & caching | RESTful & Firebase | Error handling |
+| BLoC / Riverpod / React Hooks | Material 3 guidelines | Lazy loading & caching | REST, Firebase & MongoDB | Error handling |
 | SOLID principles | Responsive layouts | Smooth 60fps animations | Real-time data sync | Clean commits |
 
 </div>
 
 <br/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--              CURRENTLY LEARNING                                -->
@@ -325,18 +352,18 @@ class HussainNaqvi extends FlutterDeveloper {
 
 <br/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   FOOTER                                      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:3B82F6,100:8B5CF6&height=150&section=footer&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
   <sub>⭐ <strong>Star my repositories if you find them useful!</strong> ⭐</sub>
   <br/>
-  <sub>💙 Built with passion using Flutter & a lot of ☕</sub>
+  <sub>💜 Built with passion using Flutter, React & a lot of ☕</sub>
 </div>
