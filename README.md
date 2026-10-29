@@ -3,16 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:3B82F6,100:06B6D4&height=280&section=header&text=Hussain%20Naqvi&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%26%20Mobile%20Developer%20%20%E2%80%A2%20%20Flutter%20%20%E2%80%A2%20%20React%20%20%E2%80%A2%20%20React%20Native&descSize=18&descAlignY=60&descColor=ffffff" width="100%"/>
-</div>
-
-<h3 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"/> Welcome to my corner of GitHub!</h3>
-
-<div align="center">
-
-  <!-- Typing SVG -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&height=45&lines=Hey+there%21+I%27m+Hussain+Naqvi+%F0%9F%91%8B;Flutter+%E2%80%A2+React+%E2%80%A2+React+Native+Developer+%F0%9F%9A%80;Mobile+Apps+%2B+Web+Apps+%3D+Full+Stack+%F0%9F%92%BB%F0%9F%93%B1;MongoDB+%E2%80%A2+Firebase+%E2%80%A2+MySQL+%E2%80%A2+PHP+%F0%9F%97%84%EF%B8%8F;Clean+Architecture+%7C+Scalable+Code+%E2%9C%94;Turning+Ideas+Into+Reality+%E2%9A%A1)](https://git.io/typing-svg)
-
+  <img src="assets/header.svg" width="100%" alt="Hussain Naqvi, full stack and mobile developer: Flutter, React, React Native, MongoDB"/>
 </div>
 
 <br/>
@@ -359,7 +350,7 @@ class HussainNaqvi extends FullStackDeveloper {
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:3B82F6,100:8B5CF6&height=150&section=footer&animation=twinkling" width="100%"/>
+  <img src="assets/footer.svg" width="100%" alt="Thanks for stopping by"/>
 </div>
 
 <div align="center">
