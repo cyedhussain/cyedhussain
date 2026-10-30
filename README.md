@@ -3,13 +3,13 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Hussain%20Naqvi&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20%26%20Mobile%20Developer%20%7C%20Software%20Engineer&descSize=18&descAlignY=58&descColor=c9d1d9"/>
+  <img src="assets/header.svg" width="100%" alt="Hussain Naqvi, Full Stack & Mobile Developer, Software Engineer"/>
 </div>
 
 <div align="center">
 
   <!-- Typing SVG -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Flutter+%7C+React+%7C+React+Native+Developer+%F0%9F%9A%80;Mobile+%2B+Web+%3D+Full+Stack+%F0%9F%93%B1%F0%9F%92%BB;MongoDB+%7C+Firebase+%7C+MySQL+%F0%9F%97%84%EF%B8%8F;Clean+Architecture+%7C+Scalable+Code+%E2%9C%94;Turning+Ideas+Into+Reality+%F0%9F%92%A1)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Production-Ready+Flutter+Apps+%F0%9F%9A%80;AI+%2B+Mobile+%3D+The+Future+%F0%9F%A4%96%F0%9F%93%B1;Clean+Architecture+%7C+Scalable+Code+%E2%9C%94;Turning+Ideas+Into+Reality+One+Widget+at+a+Time+%F0%9F%92%A1)](https://git.io/typing-svg)
 
 </div>
 
