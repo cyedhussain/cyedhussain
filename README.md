@@ -46,7 +46,7 @@
 ```dart
 class HussainNaqvi extends FullStackDeveloper {
   
-  final String name        = "Hussain Naqvi";
+  final String name        = "Syed Hussain Ali Naqvi";
   final String degree      = "Software Engineer";
   final String role        = "Flutter • React • React Native Developer";
   final String location    = "Pakistan 🇵🇰";
